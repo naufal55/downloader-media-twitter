@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "ahaha",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "mn",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^4.3.0",
+    "prompt": "^1.3.0",
+    "shelljs": "^0.8.5"
+  }
+}
